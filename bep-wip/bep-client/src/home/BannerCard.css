@@ -1,0 +1,62 @@
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+  }
+  
+  .banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .banner .swiper-slide:nth-child(1n) {
+    background-image: url('src/assets/banner-books/Science-B1.png');
+  }
+  
+  .banner .swiper-slide:nth-child(2n) {
+    background-image: url('src/assets/banner-books/Science-B2.png');
+  }
+  
+  .banner .swiper-slide:nth-child(3n) {
+    background-image: url('src/assets/banner-books/Biography-B1.png');
+  }
+  
+  .banner .swiper-slide:nth-child(4n) {
+    background-image: url('src/assets/banner-books/Biography-B2.png');
+  }
+  
+  .banner .swiper-slide:nth-child(5n) {
+    background-image: url('src/assets/banner-books/Art-B1.png');
+  }
+  
+  .banner .swiper-slide:nth-child(6n) {
+    background-image: url('src/assets/banner-books/ebooks-B1.png');
+  }
+  
+  .banner .swiper-slide:nth-child(7n) {
+    background-image: url('src/assets/banner-books/Fiction-B1.png');
+    
+  }
+  .banner .swiper-slide:nth-child(8n) {
+    background-image: url('src/assets/banner-books/Fiction-B2.png');
+  }
+  
+  .banner .swiper-slide:nth-child(9n) {
+    background-image: url('src/assets/banner-books/Horror-B1.png');
+  }
+
+  .banner .swiper-slide:nth-child(10n) {
+    background-image: url('src/assets/banner-books/Horror-B2.png');
+  }
+
+  .banner .swiper-slide:nth-child(11n) {
+    background-image: url('src/assets/banner-books/Horror-B3.png');
+  }
+
+  .banner .swiper-slide:nth-child(12n) {
+    background-image: url('src/assets/banner-books/Horror-B4.png');
+  }
